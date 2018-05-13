@@ -1,0 +1,11 @@
+Fonctionnalités implémentées:
+- importer un fichier ics (planning) grace à la fonction calendar.php
+- afficher l'emploi du temps de la semaine courante (calendar_week)
+- afficher le mois (calendar_test.php)
+- s'enregistrer, se connecter et se deconnecter
+- acceder au profil
+- ajout d'évènement
+
+fonctionnalités futures :
+- API RATP ET/OU Londres (en implémentation)
+- Programme de révision (en cours 50%)
